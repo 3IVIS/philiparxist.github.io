@@ -3,7 +3,7 @@ title: Useful links for setup and coding
 layout: default
 filename: resources
 --- 
-# Useful links for setup and coding
+# Useful links for setup
 
 ### Brew 
 [installation and guides](https://brew.sh/)
@@ -13,3 +13,16 @@ filename: resources
 
 
 
+# Useful links for coding
+
+### [12 Factors of scalable coding](https://12factor.net/)
+
+### [Django security](https://cheatsheetseries.owasp.org/cheatsheets/Django_Security_Cheat_Sheet.html)
+
+### [Python Celery](https://djangostars.com/blog/the-python-celery-cookbook-small-tool-big-possibilities/)
+
+### [Logging](https://medium.com/@sanchitsokhey/centralised-logging-for-django-gunicorn-and-celery-using-elk-stack-76b13c54414c)
+
+
+
+--------------------------------------------------------------
