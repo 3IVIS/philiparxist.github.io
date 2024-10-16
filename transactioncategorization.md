@@ -22,3 +22,5 @@ filename: transactioncategorization
 
 ### [Yapily](https://www.yapily.com/product/transaction-categorisation-data-enrichment)
 [API Docs](https://docs.yapily.com/api/reference/#operation/getTransactions!c=200&path=data&t=response)
+
+--------------------------------------------------------------------------------------------------------
