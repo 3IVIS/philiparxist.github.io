@@ -21,8 +21,8 @@ filename: resources
 
 ### [Python Celery](https://djangostars.com/blog/the-python-celery-cookbook-small-tool-big-possibilities/)
 
-### [Logging](https://medium.com/@sanchitsokhey/centralised-logging-for-django-gunicorn-and-celery-using-elk-stack-76b13c54414c)
+### [Centralized Logging](https://medium.com/@sanchitsokhey/centralised-logging-for-django-gunicorn-and-celery-using-elk-stack-76b13c54414c)
 
-
+### [cookiecutter:Jumpstart Django projects](https://github.com/cookiecutter/cookiecutter-django)
 
 --------------------------------------------------------------
