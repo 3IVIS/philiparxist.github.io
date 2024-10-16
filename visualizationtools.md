@@ -17,8 +17,6 @@ filename: visualizationtools
 
 ### [Echarts](https://github.com/ecomfe/echarts-examples)
 
-----------------------------------------------------------
-
 ## Python
 
 ### [Matplotlib](https://github.com/matplotlib/matplotlib)
@@ -28,3 +26,6 @@ filename: visualizationtools
 ### [Seaborn](https://github.com/mwaskom/seaborn)
 
 ### [Bokeh](https://github.com/bokeh/bokeh)
+
+----------------------------------------------------------
+
