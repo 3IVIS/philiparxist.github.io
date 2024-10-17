@@ -17,6 +17,8 @@ filename: resources
 
 ### [Scaling with common sense](https://zerodha.tech/blog/scaling-with-common-sense/)
 
+### [Does Django scale?](https://unfoldai.com/django-scalability)
+
 ### [12 Factors of scalable coding](https://12factor.net/)
 
 ### [Django security](https://cheatsheetseries.owasp.org/cheatsheets/Django_Security_Cheat_Sheet.html)
