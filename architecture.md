@@ -17,13 +17,13 @@ filename: architecture
 
 #### Asynchronous processes
 
-### Data structure
+### Data Handling
 
-#### Data Models
+#### Data Architecture 
 
-#### Database
+#### Database Management System 
 
-#### Data Handling
+#### Data Retrieval Strategy 
 
 ### Development, Deployment, Maintenance
 
