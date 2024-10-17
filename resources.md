@@ -22,7 +22,7 @@ filename: resources
 ### [12 Factors of scalable coding](https://12factor.net/)
 
 ### [The clean architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-[example1](https://github.com/sdediego/django-clean-architecture)[example2](https://github.com/jacob-y/django-clean-architecture)
+[example1](https://github.com/sdediego/django-clean-architecture)...[example2](https://github.com/jacob-y/django-clean-architecture)
 
 ### [Django security](https://cheatsheetseries.owasp.org/cheatsheets/Django_Security_Cheat_Sheet.html)
 
