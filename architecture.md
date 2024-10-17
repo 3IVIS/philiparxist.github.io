@@ -7,36 +7,35 @@ filename: architecture
 
 ### Features and Functionality
 
-#### Authentication 
+#### - Authentication 
 
-#### Caching
+#### - Caching
 
-#### Logging
+#### - Logging
 
-#### Security
+#### - Security
 
-#### Asynchronous processes
+#### - Asynchronous processes management 
 
 ### Data Handling
 
-#### Data Architecture 
+#### - Data Architecture 
 
-#### Database Management System 
+#### - Database Management System 
 
-#### Data Retrieval Strategy 
+#### - Data Retrieval Strategy 
 
 ### Development, Deployment, Maintenance
 
-#### Documentation
+#### - Documentation
 
-#### Testing
+#### - Testing
 
-#### Deployment
+#### - Deployment
 
-#### Backup and Recovery
+#### - Backup and Recovery
 
-
-
+-----------------------------------------
 
 
 
