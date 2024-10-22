@@ -30,6 +30,8 @@ filename: resources
 
 ### [Centralized Logging](https://medium.com/@sanchitsokhey/centralised-logging-for-django-gunicorn-and-celery-using-elk-stack-76b13c54414c)
 
+### [Data Loading Techniques](https://www.smashingmagazine.com/2022/09/data-loading-patterns-improve-frontend-performance/)
+
 ### [cookiecutter:Jumpstart Django projects](https://github.com/cookiecutter/cookiecutter-django)
 
 --------------------------------------------------------------
